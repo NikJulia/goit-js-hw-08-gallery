@@ -94,7 +94,6 @@ body {
 }
 
 .lightbox__content {
-  width: 50vw;
   transform: scale(0.95);
   transition: transform var(--animation-duration) var(--timing-function);
 }
